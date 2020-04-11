@@ -47,7 +47,7 @@ dependencies {
 }
 
 group = 'org.springframework.samples'
-version = '2.1.0.BUILD-SNAPSHOT'
+version = '0.1'
 description = 'petclinic'
 sourceCompatibility = '1.8'
 
